@@ -1,5 +1,7 @@
 # ERROR resovler
 
+Tired of searching alot on google for your coding errors. Use ERROR resolver to solve your errors.
+
 ### Description 
 
 This application is an api form where one setup the application by just creating a .env file and putting these following value
