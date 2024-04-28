@@ -1,6 +1,6 @@
 # ERROR resovler
 
-Tired of searching alot on google for your coding errors. Use ERROR resolver to solve your errors.
+Tired of searching alot on google for your coding errors? Use **ErrorResolver** to solve your errors.
 
 ### Description 
 
